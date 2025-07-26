@@ -33,8 +33,8 @@ Below is the BibTex for citing this snapshot of the repository.
   title =         {{The Parallel Epsilon Algorithm for Tri-Objective Integer Optimization Problems}},
   year =          {2025},
   doi =           {10.1287/ijoc.2024.0798.cd},
-  url =           {https://github.com/INFORMSJoC/2024.0798.cd},
-  note =          {Available for download at https://github.com/INFORMSJoC/2024.0798.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0798},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0798},
 }  
 ```
 
